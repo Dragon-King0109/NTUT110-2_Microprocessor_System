@@ -1,0 +1,1 @@
+cmd_/home/nvidia/Desktop/LAB6/hellod.ko := ld -EL -r  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds --build-id  -o /home/nvidia/Desktop/LAB6/hellod.ko /home/nvidia/Desktop/LAB6/hellod.o /home/nvidia/Desktop/LAB6/hellod.mod.o ;  true
