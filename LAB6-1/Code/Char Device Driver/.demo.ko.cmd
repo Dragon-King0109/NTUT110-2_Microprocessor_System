@@ -1,1 +1,0 @@
-cmd_/home/t109590048/Desktop/LAB6/test/demo.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/t109590048/Desktop/LAB6/test/demo.ko /home/t109590048/Desktop/LAB6/test/demo.o /home/t109590048/Desktop/LAB6/test/demo.mod.o;  true
